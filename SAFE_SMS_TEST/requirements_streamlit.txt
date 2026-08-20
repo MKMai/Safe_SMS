@@ -1,0 +1,12 @@
+streamlit>=1.38
+osmnx>=2.0
+geopandas>=1.0
+networkx>=3.2
+shapely>=2.0
+numpy>=1.26
+pandas>=2.2
+folium>=0.17
+streamlit-folium>=0.22
+pyproj>=3.6
+requests>=2.31
+twilio>=9.0

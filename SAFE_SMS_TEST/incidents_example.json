@@ -1,0 +1,5 @@
+{
+  "12": {"reason": "flood", "severity": 5},
+  "18": {"reason": "fire", "severity": 4},
+  "19": {"reason": "traffic accident", "severity": 3}
+}
